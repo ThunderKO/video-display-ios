@@ -1,0 +1,20 @@
+PODS:
+  - FSPagerView (0.8.2)
+  - SideMenu (5.0.3)
+
+DEPENDENCIES:
+  - FSPagerView (~> 0.8.2)
+  - SideMenu (~> 5.0.3)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FSPagerView
+    - SideMenu
+
+SPEC CHECKSUMS:
+  FSPagerView: 816a18842306973cc7cc6df8a5332272f7815c30
+  SideMenu: 1dcaabce84538c53325c287f7fe62999379a641c
+
+PODFILE CHECKSUM: a750ee5c45100f8717a8ca3d98a9ada80fd58f83
+
+COCOAPODS: 1.6.0
